@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //practice merging with partner on July 12, 2019
 
     override func viewDidLoad() {
         super.viewDidLoad()
